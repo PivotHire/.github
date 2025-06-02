@@ -2,6 +2,8 @@
 
 ### A revolutionary AI-driven freelancing platform for hiring match.
 
+Visit [our website](https://www.pivothire.tech/) and request a demo today!
+
 ## Current Situation
 
 In 2024, there are an estimated 76.4 million freelancers in the U.S., accounting for **approximately 36%** of the U.S. workforce.
