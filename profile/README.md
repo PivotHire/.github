@@ -2,7 +2,7 @@
 
 ### A revolutionary AI-driven freelancing platform for hiring match.
 
-Visit [our website](https://www.pivothire.tech/) and request a demo today!
+Visit [our website](https://www.pivothire.tech/) and get started today!
 
 ## Current Situation
 
