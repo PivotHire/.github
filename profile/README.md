@@ -1,6 +1,6 @@
 # PivotHire AI
 
-### A revolutionary AI-driven freelancing platform for hiring match.
+### PivotHire AI is building a high-trust network where quality-driven companies and skilled freelance professionals collaborate with confidence.
 
 Visit [our website](https://www.pivothire.tech/) and get started today!
 
