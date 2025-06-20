@@ -10,7 +10,7 @@ In 2024, there are an estimated 76.4 million freelancers in the U.S., accounting
 
 However, outdated freelancing systems lead to poor matches, wasted hiring time, confidentiality issues, and unprotected freelancers facing wage theft.
 
-Low efficiency. Low trust. Low sustainability. Current freelancing patterns will eventually fail under its own weight.
+Low efficiency. Low trust. Low sustainability. **Current freelancing patterns will eventually fail under its own weight.**
 
 ## Why Us?
 
